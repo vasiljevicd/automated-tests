@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{EBEA9488-C1A9-4DD1-9823-70D4A01A8249}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/i352211/Projects/api/api/Core/ModelsAPI/StoreAPI.cs" relfile="api/Core/ModelsAPI/StoreAPI.cs" line="51" column="1" />
+    <Breakpoint file="/Users/i352211/Projects/api/api/Core/ModelsAPI/StoreAPI.cs" relfile="api/Core/ModelsAPI/StoreAPI.cs" line="75" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="api/core/BaseAPI.cs">
+    <Files>
+      <File FileName="api/core/BaseAPI.cs" Line="21" Column="29" />
+      <File FileName="api/Tests/Suites/UserSuites.cs" Line="43" Column="33" />
+      <File FileName="api/Core/Models/User.cs" Line="6" Column="9" />
+      <File FileName="api/Tests/Suites/OrderSuite.cs" Line="37" Column="9" />
+      <File FileName="api/Usings.cs" Line="1" Column="1" />
+      <File FileName="api/core/Models/Category.cs" Line="12" Column="16" />
+      <File FileName="api/core/ModelsAPI/PetAPI.cs" Line="24" Column="49" />
+      <File FileName="api/Core/Models/Order.cs" Line="26" Column="10" NotebookId="1" />
+      <File FileName="api/Core/ModelsAPI/StoreAPI.cs" Line="60" Column="1" NotebookId="1" />
+      <File FileName="api/core/Models/Pet.cs" Line="20" Column="28" NotebookId="1" />
+      <File FileName="api/core/ModelsAPI/UserAPI.cs" Line="93" Column="32" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api" expanded="True">
+            <Node name="Features" expanded="True" />
+            <Node name="api" expanded="True">
+              <Node name="Config" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="core" expanded="True">
+                <Node name="ModelsAPI" expanded="True" />
+                <Node name="BaseAPI.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ui" expanded="True">
+              <Node name="Hooks" expanded="True" />
+              <Node name="Report" expanded="True" />
+              <Node name="Reports" expanded="True" />
+              <Node name="Steps" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

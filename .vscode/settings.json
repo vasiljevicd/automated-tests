@@ -1,0 +1,7 @@
+{
+    "cucumberautocomplete.steps": [
+        "./ui/Steps/**/*.cs",
+    ],
+    "dotnet.defaultSolution": "api.sln",
+   
+}
